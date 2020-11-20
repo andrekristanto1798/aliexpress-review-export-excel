@@ -1,0 +1,15 @@
+{
+  "name": "aliexpress-review-export-excel",
+  "version": "1.0.0",
+  "description": "Aliexpress review export to excel file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aliexpress-product-scraper": "^1.0.5",
+    "xlsx": "^0.16.9"
+  }
+}
